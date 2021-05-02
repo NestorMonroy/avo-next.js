@@ -7,8 +7,6 @@
   </a>
 </p>
 
-[Curso de Next.js](https://platzi.com/cursos/next-2020/) dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
-
 ### 🤖 Guía Rápida
 
 1.  **Empieza a desarrollar.**
